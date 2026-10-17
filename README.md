@@ -5,7 +5,7 @@
 **Freelance Project | 2025**  
 **Client:** FITTED — Activewear Brand  
 **Platform:** Instagram Reels (primary) + TikTok  
-**Result:** Best performing video on client's Instagram account
+**Result:** Described by the client as the best performing Reel on her Instagram account
 
 ---
 
@@ -44,9 +44,11 @@ I took creative control of the editing, structure, and execution, turning the id
 
 | Platform | Outcome |
 | --- | --- |
-| Instagram Reels | Best performing video on the account |
+| Instagram Reels | The client told me it was the best performing Reel on her account ([watch the Reel](https://www.instagram.com/reel/DVMGCSQCKLz/)) |
 | TikTok | ~2,000 views (decent reach for a no-audio edit) |
 | Client relationship | CEO expressed interest in long-term collaboration |
+
+Messages between me and the client from this project are included in my [portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital).
 
 **Note on TikTok:** I advised the client before posting that a soundless edit would be difficult to pair with trending audio and may not perform as strongly with the TikTok algorithm. The Instagram-first strategy was the right call — the Reel significantly outperformed expectations.
 
