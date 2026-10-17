@@ -1,3 +1,5 @@
+[← Back to portfolio](https://github.com/BettyjannehDigital)
+
 # Freelance Content Creation – FITTED Activewear
 
 **Freelance Project | 2025**  
@@ -20,6 +22,7 @@ I took creative control of the editing, structure, and execution, turning the id
 **Brief from client:** Show two models — different body types, same outfit, same exercises — to demonstrate size inclusivity and product versatility.
 
 **My contribution:**
+
 - Interpreted the brief and developed the full editing concept
 - Structured the transitions to sync movement between the two models
 - Made all creative decisions around pacing, cuts, and visual flow
@@ -40,7 +43,7 @@ I took creative control of the editing, structure, and execution, turning the id
 ## Results
 
 | Platform | Outcome |
-|---|---|
+| --- | --- |
 | Instagram Reels | Best performing video on the account |
 | TikTok | ~2,000 views (decent reach for a no-audio edit) |
 | Client relationship | CEO expressed interest in long-term collaboration |
@@ -65,5 +68,11 @@ FITTED is an activewear brand built around the belief that athletic clothing sho
 
 ---
 
-*Freelance project. Video available on request.*
+## Related Projects
 
+- [Project Exam Campaign – FITTED Activewear](https://github.com/BettyjannehDigital/Project-Exam-FITTED-Campaign)
+- [Social Media Marketing – OneOhOne Jewelry](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne)
+
+---
+
+*Freelance project. Video available on request.*
