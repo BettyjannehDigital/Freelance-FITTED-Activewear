@@ -2,10 +2,10 @@
 
 # Freelance Content Creation – FITTED Activewear
 
-**Freelance Project | 2025**  
+**Freelance Project | Reel posted 25 February 2026**  
 **Client:** FITTED — Activewear Brand  
 **Platform:** Instagram Reels (primary) + TikTok  
-**Result:** Described by the client as the best performing Reel on her Instagram account
+**Result:** 6,249 views and 167 likes on Instagram (public count, checked 25 October 2026), the highest view count of the 12 Reels on the account. The client described it as the best performing Reel on her account
 
 ---
 
@@ -44,7 +44,7 @@ I took creative control of the editing, structure, and execution, turning the id
 
 | Platform | Outcome |
 | --- | --- |
-| Instagram Reels | The client told me it was the best performing Reel on her account ([watch the Reel](https://www.instagram.com/reel/DVMGCSQCKLz/)) |
+| Instagram Reels | 6,249 views and 167 likes, the highest view count of the 12 Reels on the account (public counts, checked 25 October 2026). The client told me it was the best performing Reel on her account ([watch the Reel](https://www.instagram.com/reel/DVMGCSQCKLz/)) |
 | TikTok | ~2,000 views (decent reach for a no-audio edit) |
 | Client relationship | CEO expressed interest in long-term collaboration |
 
@@ -77,4 +77,5 @@ FITTED is an activewear brand built around the belief that athletic clothing sho
 
 ---
 
-*Freelance project. Video available on request.*
+*Freelance project. Video available on request.*  
+*Last updated: 25 October 2026.*
