@@ -2,7 +2,7 @@
 
 # Freelance Content Creation – FITTED Activewear
 
-**Freelance Project | Reel posted 25 February 2026**  
+**Freelance Project | Reels posted February to September 2026**  
 **Client:** FITTED — Activewear Brand  
 **Platform:** Instagram Reels (primary) + TikTok  
 **Result:** 6,249 views and 167 likes on Instagram (public count, checked 25 October 2026), the highest view count of the 12 Reels on the account. The client described it as the best performing Reel on her account
@@ -51,6 +51,19 @@ I took creative control of the editing, structure, and execution, turning the id
 Messages between me and the client from this project are included in my [portfolio](https://nimbledimble.my.canva.site/bettyjannehdigital).
 
 **Note on TikTok:** I advised the client before posting that a soundless edit would be difficult to pair with trending audio and may not perform as strongly with the TikTok algorithm. The Instagram-first strategy was the right call — the Reel significantly outperformed expectations.
+
+---
+
+## Other FITTED Videos I Edited
+
+Besides the transitional Reel above, I edited and made these Reels for FITTED. View counts are the public counts on Instagram, checked 25 October 2026. Posting dates are as I remember them and are not yet cross-checked against the account.
+
+| Video | Posted | Instagram views | Link |
+| --- | --- | --- | --- |
+| Transitional video, two models and one outfit (above) | 25 February 2026 | 6,249 | [Watch](https://www.instagram.com/reel/DVMGCSQCKLz/) |
+| FITTED Reel | 3 July 2026 | 2,233 | [Watch](https://www.instagram.com/reel/DaVf8PyIdZO/) |
+| Collab Reel, FITTED and Muskel Klinikken | 13 July 2026 | 1,906 | [Watch](https://www.instagram.com/reel/Dau-tVaoxW2/) |
+| Leg Day with FITTED (the Reel from my [Project Exam campaign](https://github.com/BettyjannehDigital/Project-Exam-FITTED-Campaign), posted by the client) | 11 September 2026 | 2,010 | [Watch](https://www.instagram.com/reel/DdJaGcaoPb0/) |
 
 ---
 
