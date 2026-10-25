@@ -90,5 +90,7 @@ FITTED is an activewear brand built around the belief that athletic clothing sho
 
 ---
 
-*Freelance project. Video available on request.*  
+Videos and files: [FITTED Drive folder](https://drive.google.com/drive/folders/1WoVPmulEh6ElASOlKqRILV_9MdOB86WU) (including [past posted campaigns](https://drive.google.com/drive/folders/1G36d4VnpT0hLfwdYGdBDBkOoq463RGJq)).
+
+*Freelance project.*  
 *Last updated: 25 October 2026.*
